@@ -3,9 +3,13 @@ Simulation Study: Significance of Regression, Using RMSE for Selection?, Simulat
 
 This is an individual statistical project I have conducted and submitted for STAT 420 course at UIUC.
 
-# Language
+# Programming Language
 R programming
+
 RMarkdown (RMD file)
+
 Html report file is provided
+
+
 
 
