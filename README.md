@@ -3,6 +3,9 @@ Simulation Study: Significance of Regression, Using RMSE for Selection?, Simulat
 
 This is an individual statistical project I have conducted and submitted for STAT 420 course at UIUC.
 
+# Authors
+Bahman Sheikh
+
 # Programming Language
 R programming
 
