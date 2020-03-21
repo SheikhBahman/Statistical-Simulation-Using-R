@@ -18,6 +18,7 @@ RMarkdown (RMD file)
 Html report file is provided
 
 # Overview
+Please see the web for more detailes.
 • Three Simulation Studies 1/2/3 
 
 • Introduction: This section fully provides background to each simulation such that a reader understands the purpose and goal of the simulation study.
