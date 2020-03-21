@@ -19,7 +19,8 @@ Html report file is provided
 
 # Overview
 Please see the web for more detailes.
-• Three Simulation Studies 1/2/3 
+
+• Three Simulation Studies 1. Significance of Regression 2. Using RMSE for Selection? 3. Power 
 
 • Introduction: This section fully provides background to each simulation such that a reader understands the purpose and goal of the simulation study.
 
